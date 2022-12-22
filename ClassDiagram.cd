@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="simulator">
-    <Position X="6" Y="0.75" Width="2.25" />
+    <Position X="6.75" Y="2.75" Width="4.5" />
     <TypeIdentifier>
       <HashCode>AIQAAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAFAAA=</HashCode>
       <FileName>simulator.h</FileName>
