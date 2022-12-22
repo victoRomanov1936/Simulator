@@ -8,8 +8,8 @@ struct Engines
 	double Vc(double ambient_temperature, double engine_temperature);
 	double Vh();
 
-	std::vector<double> M = { 20, 75, 100, 105, 75, 0 };
-	std::vector<double> V = { 0, 75, 150, 200, 250, 300 };
+	std::vector<double> M { 20, 75, 100, 105, 75, 0 };
+	std::vector<double> V { 0, 75, 150, 200, 250, 300 };
 
 	double I = 0.1;
 	double startM;
